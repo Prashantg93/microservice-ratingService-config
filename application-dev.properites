@@ -1,4 +1,4 @@
-#eureka configuration defualt
+#eureka configuration dev
 spring.application.name=dev.default
 eureka.client.fetch-registry=true
 eureka.instance.prefer-ip-address=true
